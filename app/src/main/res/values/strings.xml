@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlgarTech</string>
+    <string name="google_key">AIzaSyBI-nxg7THgTOHHmnNpdtIOFqHWAhLl6vk</string>
+    <string name="google_places_url">https://maps.googleapis.com/maps/api/</string>
+    <string name="open_weather_url">https://api.openweathermap.org/data/2.5/</string>
+    <string name="open_weather_key">fa2c929ae2bbd19c99f2fcb62d99785e</string>
+    <string name="open_weather_icon">https://openweathermap.org/img/wn/</string>
+</resources>
